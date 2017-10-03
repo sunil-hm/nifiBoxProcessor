@@ -1,0 +1,29 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+nifi-box-nar
+
+
+From: 'an unknown organization'
+  - Box Java SDK (http://opensource.box.com/box-java-sdk/) com.box:box-java-sdk:jar:2.5.0
+    License: The Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - minimal-json (https://github.com/ralfstx/minimal-json) com.eclipsesource.minimal-json:minimal-json:bundle:0.9.1
+    License: Eclipse Public License - v 1.0  (http://www.eclipse.org/legal/epl-v10.html)
+  - jose4j (https://bitbucket.org/b_c/jose4j/) org.bitbucket.b_c:jose4j:jar:0.4.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Bouncy Castle PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and CRMF APIs (http://www.bouncycastle.org/java.html) org.bouncycastle:bcpkix-jdk15on:jar:1.55
+    License: Bouncy Castle Licence  (http://www.bouncycastle.org/licence.html)
+  - Bouncy Castle Provider (http://www.bouncycastle.org/java.html) org.bouncycastle:bcprov-jdk15on:jar:1.55
+    License: Bouncy Castle Licence  (http://www.bouncycastle.org/licence.html)
+
+From: 'Apache NiFi Project' (http://nifi.apache.org/)
+  - nifi-box-processors (http://nifi.apache.org/nifi-nar-bundles/box/nifi-box-processors) box:nifi-box-processors:jar:1.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - nifi-utils (http://nifi.apache.org/nifi-commons/nifi-utils) org.apache.nifi:nifi-utils:jar:1.3.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+
+
+
+
